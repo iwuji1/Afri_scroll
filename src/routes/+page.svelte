@@ -56,7 +56,7 @@
     margin: auto;
     height: 100vh;
     align-items: center;
-    justify-content: center;s
+    justify-content: center;
   }
 
   .sticky-container {
