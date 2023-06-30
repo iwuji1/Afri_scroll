@@ -1,0 +1,6 @@
+export default [
+  {Part: 1, Content: "Which countries got taken over?"},
+  {Part: 2, Content: "According to the webster dictionary the definition of colonization is: The subjugation of a people or area especially as an extension of state power"},
+  {Part: 3, Content: "In the 1800’s European nations had a desire to get a lead to widespread imperialism in Africa. Why? Well besides the belief that, at the time, they were better than everyone else there were 2 main reasons: Expansion of territory with the limited land potential in europe, the opportunity to acquire land and natural resources was very appetizing and of course...Money. And so the scramble for Africa began, it got so intense at times that there was fear that war between Eurpean nations."},
+  {Part: 4, Content: "In the infamous words of Edwin starr war...what is it good for, absolutely nothing. So to avoid the potential for war The Berlin Conference came to be in Feb 26, 1885. In this meeting, the Europeans divided up the land of africa, determining who owned which territory (the people living there currently obviously did not count), creating the map of Africa we see to day. Excluding Ethipoia and Liberia every African nation that we now know to day was put under the rule of a nation."}
+];
